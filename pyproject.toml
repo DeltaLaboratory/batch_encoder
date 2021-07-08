@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "caption_encoder"
+version = "0.1.0"
+description = ""
+authors = ["DeltaLaboratory <delta@deltalab.dev>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+chardet = "^4.0.0"
+pycaption = "^1.0.6"
+lxml = "^4.6.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

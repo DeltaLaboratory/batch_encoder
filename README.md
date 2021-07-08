@@ -1,0 +1,1 @@
+#Simple Batch Text Encoder / SMI => SRT Tool
